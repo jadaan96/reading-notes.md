@@ -18,11 +18,11 @@ Rooms group sockets together for targeted messaging in various scenarios: group 
 
 ##### How do you join a room?
 
-IO, you can use the join() method 
+you can use the join() method 
 ##### how do you leave a room?
 
 
-IO, you can use the leave() method 
+ you can use the leave() method 
 ### Namespaces
 #### What is a Namespace and what does it allow you to do?
 
